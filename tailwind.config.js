@@ -29,12 +29,12 @@ module.exports = {
       },
       backgroundImage: {
         
-        'headerMobile': "url('/images/mobile/image-header.jpg')",
-        'headerDesktop': "url('/images/desktop/image-header.jpg')",
-        'mobileCherry': "url('/images/mobile/image-graphic-design.jpg')",
-        'mobileOrange': "url('/images/mobile/image-photography.jpg')",
-        'desktopCherry': "url('/images/desktop/image-graphic-design.jpg')",
-        'desktopOrange': "url('/images/desktop/image-photography.jpg')",
+        'headerMobile': "url('./images/mobile/image-header.jpg')",
+        'headerDesktop': "url('./images/desktop/image-header.jpg')",
+        'mobileCherry': "url('./images/mobile/image-graphic-design.jpg')",
+        'mobileOrange': "url('./images/mobile/image-photography.jpg')",
+        'desktopCherry': "url('./images/desktop/image-graphic-design.jpg')",
+        'desktopOrange': "url('./images/desktop/image-photography.jpg')",
         
       },
     },
