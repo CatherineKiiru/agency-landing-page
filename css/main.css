@@ -662,10 +662,6 @@ video {
   background-color: hsl(0 0% 100% / var(--tw-bg-opacity));
 }
 
-.bg-headerMobile {
-  background-image: url('../images/mobile-header.jpg');
-}
-
 .bg-mobileCherry {
   background-image: url('/images/mobile/image-graphic-design.jpg');
 }
