@@ -35,7 +35,6 @@ module.exports = {
         'mobileOrange': "url('/images/mobile/image-photography.jpg')",
         'desktopCherry': "url('/images/desktop/image-graphic-design.jpg')",
         'desktopOrange': "url('/images/desktop/image-photography.jpg')",
-        
       },
     },
   },
