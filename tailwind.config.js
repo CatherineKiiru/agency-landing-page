@@ -29,8 +29,8 @@ module.exports = {
       },
       backgroundImage: {
         
-        'headerMobile': "url('../images/mobile-header.jpg')",
-        'headerDesktop': "url('../images/desktop-header.jpg')",
+        'headerMobile': "url('/images/mobile-header.jpg')",
+        'headerDesktop': "url('/images/desktop-header.jpg')",
         'mobileCherry': "url('/images/mobile/image-graphic-design.jpg')",
         'mobileOrange': "url('/images/mobile/image-photography.jpg')",
         'desktopCherry': "url('/images/desktop/image-graphic-design.jpg')",
