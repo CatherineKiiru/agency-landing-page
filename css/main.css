@@ -562,6 +562,10 @@ video {
   height: 18rem;
 }
 
+.h-auto {
+  height: auto;
+}
+
 .h-screen {
   height: 100vh;
 }
@@ -915,6 +919,10 @@ video {
 
   .md\:hidden {
     display: none;
+  }
+
+  .md\:h-screen {
+    height: 100vh;
   }
 
   .md\:max-h-24 {
