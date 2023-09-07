@@ -17,9 +17,8 @@ This is a marketing agency landing page built with Tailwind and JavaScript.
  ## Screenshot
  ![](./screenshot.png)
 
- ## Links
- [Github](https://github.com/CatherineKiiru/agency-landing-page)
- [Live-site] (https://github.com/CatherineKiiru/agency-landing-page)
+ ## Live Site
+ https://landingpage-catherinekiiru.netlify.app/
 
  ## My Process
  I began the project my mapping out all the sections needed into divs. Then I add all the configurations required in the Tailwind config file. I added colors, screen sizes, and background images. This helped in writing clean code because I could just state the specific class for each element I added in the config file, instead of adding the relative paths to some of the links. 
